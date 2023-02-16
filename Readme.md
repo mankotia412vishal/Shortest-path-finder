@@ -1,9 +1,25 @@
-# shortest distance finding alogrithms
- 
-3 alogrithms i have implemented for the  shortest path in c 
+<!-- GETTING STARTED -->
+## Implementation of the shortest path finder using different algorithms Ballamford ,Dijkstra ,Flyod.
 
-# instructions for running this project
-This project is wriiten in c 
+ 
+
+### Prerequisites
+
+1. Need a C Compiler .
+  
+ 
+
+### Installation
+ 
+ 
+1. Clone the repo
+ 
+## shortest distance finding alogrithms
+ 
+ 
+
+## instructions for running this project
+ 
 
 
             ######################################################################
