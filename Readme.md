@@ -8,13 +8,15 @@
             ######################################################################
                     #  Welcome To The Shortest Distance Finding  Alogrithms  #
             ######################################################################
+            <br>
+            
 Enter which algorithm do you want to use?
 Press 1 for  Ballamford
 Press 2 for Dijkstra
 Press 3 for  Flyod
 Enter your choice :
-
-
+<br>
+---
 BELLMAN FORD
 Enter no. of vertices: 5
 Enter graph in matrix form:
@@ -54,14 +56,7 @@ Distance of node3=30
 Path=3<-0
 Distance of node4=60
 Path=4<-2<-3<-0
-
-
-
-
-
-
-
-
+---
 Enter no. of vertices:5
 
 Enter the adjacency matrix:
@@ -85,7 +80,7 @@ Path=4<-3<-2<-1
 
 
 
-
+---
 FLYOD WARSHALL 
 
 Enter no. of vertices:5
