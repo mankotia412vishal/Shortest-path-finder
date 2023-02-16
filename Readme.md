@@ -9,9 +9,10 @@
                     #  Welcome To The Shortest Distance Finding  Alogrithms  #
             ######################################################################
              
-<li>Enter which algorithm do you want to use?
+<li><pre>Enter which algorithm do you want to use?
 Press 1 for  Ballamford
 Press 2 for Dijkstra
 Press 3 for  Flyod
 Enter your choice :
 <br></li>
+---
